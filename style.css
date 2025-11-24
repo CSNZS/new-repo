@@ -8,4 +8,12 @@
   display: flex;
   background-color: blue;
   font-size: 300px;
+  position: relative;
+  top: 30px;
+  right: 30px;
+}
+.header_lower {
+  display: flex;
+  background-color: blue;
+  font-size: 400px;
 }
